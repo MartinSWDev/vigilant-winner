@@ -9,3 +9,5 @@ Hi Haz, how are you?
 Excellent, thank you! 
 What do you call a magic dog...? 
 - A labracadabrador
+
+Martin says hi :)
